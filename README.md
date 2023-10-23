@@ -1,4 +1,5 @@
 # Домашнее задание к лекции «TypeScript»
+[![Build status](https://ci.appveyor.com/api/projects/status/lsv366opovjifc2o?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ajs-typescript)
 
 
 **Важно**: все задачи допустимо выполнять в одном GitHub репозитории.
